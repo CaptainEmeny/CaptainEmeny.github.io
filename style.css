@@ -1,6 +1,8 @@
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #f0f0f0;
+    background-color: rgb(241, 214, 172);
+    background-image: url(images/backgrounds/noisy.png);
+
 }
 
 h1{
@@ -10,8 +12,39 @@ h2{
     font-size: 32px;
 }
 
+.menu_bar{
+    background-color: rgb(194, 162, 122);
+    overflow: hidden;
+
+    border-radius: 20px;
+}
+.menu_bar a{
+    float:left;
+    
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    
+    padding: 14px 16px;
+
+    transition: 0.2s;
+}
+.menu_bar a:hover{
+    background-color: #8b4513;
+
+    transition: 0.2s;
+}
+
+
+
+.sticky{
+    position: sticky;
+    top: 0;
+}
+
 /* Header and Self Styles */
-.header{
+.header_text{
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -49,13 +82,14 @@ h2{
 }
 
 .social:hover{
+    background-color: #8b4513;
     opacity: 0.9;
     transform: scale(1.1);
 
     padding: 3px;
     transition: 0.2s;
 
-    border-color: #8b4513; /* SaddleBrown */
+    border-color: #c28b59; /* SaddleBrown */
 
 }
 
@@ -103,6 +137,7 @@ h2{
     transition: 0.2s;
 }
 .project_item:hover{
+    background-color: #c28b59;
     transform: scale(1.05);
     border-color: #8b4513;
     transition: 0.2s;
