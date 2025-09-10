@@ -1,0 +1,68 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fde0b2;    
+    background-image: url(/images/backgrounds/noisy.png);
+
+}
+
+.menu_bar{
+    background-color: rgb(194, 162, 122);
+    overflow: hidden;
+
+    border-radius: 20px;
+}
+.menu_bar a{
+    float:left;
+    
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    
+    padding: 14px 16px;
+
+    transition: 0.2s;
+}
+.menu_bar a:hover{
+    background-color: #8b4513;
+
+    transition: 0.2s;
+}
+
+#blog-container{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    margin: 50px;
+}
+.blog-block{
+    background-color: #ffbb77;
+    background-image: url("/images/backgrounds/blog-background.png");
+
+    width: 80%;
+    height: 100px;
+
+    border-width: 4px;
+    border: solid;
+    border-color: #8b4513;
+
+    justify-content: center;
+    align-items: center;
+    
+}
+.blog-block.first{
+
+    border-radius: 20px 20px 0 0;
+    border-bottom: none;
+}
+.blog-block.last{
+    border-radius: 0 0 20px 20px;
+    border-top: none;
+}
+image{
+
+    height: fit-content;
+}
