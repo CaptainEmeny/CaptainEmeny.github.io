@@ -37,12 +37,6 @@ h2{
 }
 
 
-
-.sticky{
-    position: sticky;
-    top: 0px;
-}
-
 /* Header and Self Styles */
 .header_text{
     display:flex;
