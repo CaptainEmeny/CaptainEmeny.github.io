@@ -1,9 +1,0 @@
-[
-    {
-        "name": "First Blog Post",
-        "date" : "12/25/2005",
-        "tags" : ["HTML", "short"],
-        "image" : "/images/blog-images/test-image.png",
-        "description" : "This is a simple description"
-    }
-]
