@@ -1,10 +1,14 @@
 [
     {
-     "name": "empanada",
-     "description": "Spanish food with meat and dough"   
+     "name": "Empanada",
+     "cookTime": 45,
+     "description": "Spanish food with meat and dough",
+     "image": "https://projectborges.com/images/recipes/empanada.jpg"   
     },
     {
-     "name": "Chilli",
-     "description": "A stewy food with kidney beans and other stuff"   
+     "name": "Chili",
+     "cookTime": 30,
+     "description": "A stewy food with kidney beans and other stuff",
+     "image": "https://projectborges.com/images/recipes/chilli.jpg"   
     }
 ]
