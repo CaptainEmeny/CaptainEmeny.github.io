@@ -1,0 +1,18 @@
+{
+    "name": "Empanada",
+    "cookTime": "an hour maybe idk",
+    "recipe":[
+        {
+         "name": "Preheat Oven",
+         "description": "Preheat the oven to 1000 degrees celsius"
+        },
+        {
+         "name": "Insert Oven",
+         "description": "Insert the oven in the empanada"
+        },
+        {
+         "name": "Eat!",
+         "description": "Enjoy the empanada!"
+        }
+    ]
+}
