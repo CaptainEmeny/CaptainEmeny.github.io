@@ -1,26 +1,30 @@
 [
     {
-     "name": "Empanada",
-     "cookTime": 45,
-     "description": "Spanish food with meat and dough",
-     "image": "https://projectborges.com/images/recipes/empanada.jpg"   
+        "id": "empanada",
+        "name": "Empanada",
+        "cookTime": 45,
+        "description": "Spanish food with meat and dough",
+        "image": "https://projectborges.com/images/recipes/empanada.jpg"   
     },
     {
-     "name": "Chili",
-     "cookTime": 30,
-     "description": "A stewy food with kidney beans and other stuff",
-     "image": "https://projectborges.com/images/recipes/chili.jpg"   
+        "id": "chili",
+        "name": "Chili",
+        "cookTime": 30,
+        "description": "A stewy food with kidney beans and other stuff",
+        "image": "https://projectborges.com/images/recipes/chili.jpg"   
     },
     {
-     "name": "Pretzel Bites",
-     "cookTime": 60,
-     "description": "Tiny pieces of pretzels with salt and on them",
-     "image": "https://projectborges.com/images/recipes/pretzel-bites.jpg"   
+        "id": "pretzel-bites",
+        "name": "Pretzel Bites",
+        "cookTime": 60,
+        "description": "Tiny pieces of pretzels with salt and on them",
+        "image": "https://projectborges.com/images/recipes/pretzel-bites.jpg"   
     },
     {
-     "name": "Chicken Stir Fry",
-     "cookTime": 45,
-     "description": "Stir fry with chicken in it",
-     "image": "https://projectborges.com/images/recipes/chicken-stir-fry.jpg"   
+        "id": "chicken-stiry-fry",
+        "name": "Chicken Stir Fry",
+        "cookTime": 45,
+        "description": "Stir fry with chicken in it",
+        "image": "https://projectborges.com/images/recipes/chicken-stir-fry.jpg"   
     }
 ]
