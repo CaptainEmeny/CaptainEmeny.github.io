@@ -18,9 +18,9 @@
         "1 pinch garlic powder",
         "Salt and pepper to taste"
     ],
-    "originalRecipe": {
-        "originalChef": "Tobi Hargis",
-        "originalLink": "https://www.allrecipes.com/recipe/16248/easy-homemade-chili"
+    "source": {
+        "sourceChef": "Tobi Hargis",
+        "sourceLink": "https://www.allrecipes.com/recipe/16248/easy-homemade-chili"
     },
 
     "recipe":[

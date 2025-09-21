@@ -16,7 +16,7 @@
     {
         "id": "chicken-stir-fry",
         "name": "Chicken Stir Fry",
-        "cookTime": 45,
+        "cookTime": 18,
         "description": "Stir fry with chicken in it",
         "image": "https://projectborges.com/images/recipes/chicken-stir-fry.jpg"   
     }

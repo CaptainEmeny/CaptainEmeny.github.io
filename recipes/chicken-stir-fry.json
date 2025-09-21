@@ -25,9 +25,9 @@
         "1 tbsp toasted sesame oil",
         "1/2 tsp crushed red pepper flakes"
     ],
-    "originalRecipe": {
-        "originalChef": "Trish - Mom On Timeout",
-        "originalLink": "https://www.momontimeout.com/easy-chicken-stir-fry-recipe/"
+    "source": {
+        "sourceChef": "Trish - Mom On Timeout",
+        "sourceLink": "https://www.momontimeout.com/easy-chicken-stir-fry-recipe/"
     },
 
     "recipe":[

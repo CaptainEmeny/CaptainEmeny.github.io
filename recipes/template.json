@@ -10,9 +10,9 @@
     "ingredients":[
 
     ],
-    "originalRecipe": {
-        "originalChef": "",
-        "originalLink": ""
+    "source": {
+        "sourceChef": "",
+        "sourceLink": ""
     },
 
     "recipe":[
