@@ -1,12 +1,5 @@
 [
     {
-        "id": "empanada",
-        "name": "Empanada",
-        "cookTime": 45,
-        "description": "Spanish food with meat and dough",
-        "image": "https://projectborges.com/images/recipes/empanada.jpg"   
-    },
-    {
         "id": "chili",
         "name": "Chili",
         "cookTime": 30,

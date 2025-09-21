@@ -1,0 +1,40 @@
+{
+    "name": "",
+    "description": "",
+    "details": {
+        "nationality": "",
+        "difficulty": "",
+        "dishType": "",
+        "cookTime": 0
+    },
+    "ingredients":[
+
+    ],
+    "originalRecipe": {
+        "originalChef": "",
+        "originalLink": ""
+    },
+
+    "recipe":[
+        {
+            "name": "",
+            "description": ""
+        },
+        {
+            "name": "",
+            "description": ""
+        },
+        {
+            "name": "",
+            "description": ""
+        },
+        {
+            "name": "",
+            "description": ""
+        },
+        {
+            "name": "",
+            "description": ""
+        }
+    ]
+}
