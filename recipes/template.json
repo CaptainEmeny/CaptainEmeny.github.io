@@ -5,15 +5,13 @@
         "nationality": "",
         "difficulty": "",
         "dishType": "",
-        "cookTime": 0
+        "cookTime": 0,
+        "sourceChef": "",
+        "sourceLink": ""
     },
     "ingredients":[
 
     ],
-    "source": {
-        "sourceChef": "",
-        "sourceLink": ""
-    },
 
     "recipe":[
         {

@@ -3,21 +3,25 @@
         "id": "chili",
         "name": "Chili",
         "cookTime": 30,
-        "description": "A stewy food with kidney beans and other stuff",
-        "image": "https://projectborges.com/images/recipes/chili.jpg"   
+        "description": "A stewy food with kidney beans and other stuff"
     },
     {
         "id": "pretzel-bites",
         "name": "Pretzel Bites",
         "cookTime": 60,
-        "description": "Tiny pieces of pretzels with salt and on them",
-        "image": "https://projectborges.com/images/recipes/pretzel-bites.jpg"   
+        "description": "Tiny pieces of pretzels with salt and on them"
     },
     {
         "id": "chicken-stir-fry",
         "name": "Chicken Stir Fry",
         "cookTime": 18,
-        "description": "Stir fry with chicken in it",
-        "image": "https://projectborges.com/images/recipes/chicken-stir-fry.jpg"   
+        "description": "Stir fry with chicken in it"
+    },
+    {
+        "id": "garlic-butter-steak-with-parmesan-cheese-sauce",
+        "name": "Garlic Butter Steak with Parmesan Cheese Sauce",
+        "cookTime": 18,
+        "description": "Pieces of steak marinated in parmesan cheese sauce"
     }
+
 ]

@@ -1,11 +1,13 @@
 {
     "name": "Chili",
-    "description": "Chili is a sort of stew that's adored all over the world which usually has some sort of bean, (typically kidney beans) along with a sauce and meat of your choosing. This beef chili is an easy recipe for anyone to make!",
+    "description": "Owwww I think I burnth my thoung.",
     "details": {
         "nationality": "Mexican",
         "difficulty": "Easy",
         "dishType": "Dinner",
-        "cookTime": 30
+        "cookTime": 30,
+        "sourceChef": "Tobi Hargis",
+        "sourceLink": "https://www.allrecipes.com/recipe/16248/easy-homemade-chili"
     },
     "ingredients":[
         "1 pound ground beef",
@@ -18,11 +20,6 @@
         "1 pinch garlic powder",
         "Salt and pepper to taste"
     ],
-    "source": {
-        "sourceChef": "Tobi Hargis",
-        "sourceLink": "https://www.allrecipes.com/recipe/16248/easy-homemade-chili"
-    },
-
     "recipe":[
         {
             "name": "Cook Meat",

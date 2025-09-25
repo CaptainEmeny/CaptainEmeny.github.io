@@ -1,11 +1,13 @@
 {
-    "name": "Chicken Stiry Fry",
-    "description": "",
+    "name": "Chicken Stir Fry",
+    "description": "You're telling me a chicken stirred this fry?",
     "details": {
         "nationality": "Chinese",
         "difficulty": "Easy",
         "dishType": "Dinner",
-        "cookTime": 18
+        "cookTime": 18,
+        "sourceChef": "Trish - Mom On Timeout",
+        "sourceLink": "https://www.momontimeout.com/easy-chicken-stir-fry-recipe/"
     },
     "ingredients":[
         "1 lb boneless, skinless chicken breast cut into 1 inch cubes",
@@ -25,10 +27,6 @@
         "1 tbsp toasted sesame oil",
         "1/2 tsp crushed red pepper flakes"
     ],
-    "source": {
-        "sourceChef": "Trish - Mom On Timeout",
-        "sourceLink": "https://www.momontimeout.com/easy-chicken-stir-fry-recipe/"
-    },
 
     "recipe":[
         {

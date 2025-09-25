@@ -1,0 +1,61 @@
+{
+    "name": "Garlic Butter Steak with Parmesan Cheese Sauce",
+    "description": "Garlicy, cheesy, and steaky.",
+    "details": {
+        "nationality": "",
+        "difficulty": "Easy",
+        "dishType": "Dinner",
+        "cookTime": 25,
+        "sourceChef": "Unknown",
+        "sourceLink": "https://www.facebook.com/groups/1095612651734553/posts/1419344696028012/"
+    },
+    "ingredients":[
+        "1 lb (450g) sirloin steak, cut into bite-sized pieces",
+        "Salt and pepper to taste",
+        "2 tbsp (28g) butter",
+        "5 cloves garlic, minced",
+        "1/2 cup (120ml) beef broth",
+        "1/2 cup (120ml) heavy cream",
+        "1/2 cup (50g) grated Parmesan cheese",
+        "Fresh parsley for garnishz"
+    ],
+
+    "recipe":[
+        {
+            "name": "Season Steak",
+            "description": "Season steak bites with salt and pepper."
+        },
+        {
+            "name": "Melt Butter",
+            "description": "In a skillet, melt butter over medium-high heat. "
+        },
+        {
+            "name": "Cook Steak Bites",
+            "description": "Add steak bites and cook until browned, about 3-4 minutes. "
+        },
+        {
+            "name": "Remove Steak Bites",
+            "description": "Remove steak from the skillet and set aside."
+        },
+        {
+            "name": "Add Minced Garlic",
+            "description": "In the same skillet, add minced garlic and sauté until fragrant."
+        },
+        {
+            "name": "Pour Beef Broth",
+            "description": "Pour in beef broth, scraping the bottom of the skillet to release browned bits."
+        },
+        {
+            "name": "Stir Sauces",
+            "description": "Stir in heavy cream and Parmesan cheese. Simmer until sauce thickens."
+        },
+        {
+            "name": "Add Steak",
+            "description": "Return steak to the skillet, coating in the sauce. "
+        },
+        {
+            "name": "Garnish",
+            "description": "Garnish with fresh parsley before serving."
+        }
+    ]
+}

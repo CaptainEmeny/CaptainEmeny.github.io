@@ -1,11 +1,13 @@
 {
     "name": "Pretzel Bites",
-    "description": "Pretzel bites are delicious and easy treats to make which don't take too much effort to make. If it's your first time making them, you might struggle with making the dough and cutting up the pieces, so having a friend help you out may making the baking process easier.",
+    "description": "Pretzel don't bite, pretzel gentle.",
     "details": {
         "nationality": "German",
         "difficulty": "Medium",
         "dishType": "Baked",
-        "cookTime": 60
+        "cookTime": 60,
+        "sourceChef": "Sally McKenney",
+        "sourceLink": "https://sallysbakingaddiction.com/soft-pretzel-bites/"
     },
 
     "ingredients":[
@@ -19,10 +21,6 @@
         "1/2 cup (120g) baking soda",
         "9 cups (2,160ml) water"
     ],
-    "source": {
-        "sourceChef": "Sally McKenney",
-        "sourceLink": "https://sallysbakingaddiction.com/soft-pretzel-bites/"
-    },
 
     "recipe":[
         {
