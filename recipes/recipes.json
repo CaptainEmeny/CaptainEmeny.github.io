@@ -22,6 +22,12 @@
         "name": "Garlic Steak with Cheese Sauce",
         "cookTime": 25,
         "description": "Pieces of steak marinated in parmesan cheese sauce"
+    },
+    {
+        "id": "chicken-empanada",
+        "name": "Chicken Empanada",
+        "cookTime": 40,
+        "description": "Empanada with a filled with vegetables and beef"
     }
 
 ]
