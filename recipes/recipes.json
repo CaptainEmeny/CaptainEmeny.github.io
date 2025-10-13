@@ -28,6 +28,13 @@
         "name": "Chicken Empanada",
         "cookTime": 40,
         "description": "Empanada with a filled with vegetables and beef"
+    },
+    {
+        "id": "torta-frita",
+        "name": "Torta Frita",
+        "cookTime": 30,
+        "description": "Dough Fried in Lard and topped with sugar"
     }
+
 
 ]

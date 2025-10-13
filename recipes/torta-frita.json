@@ -1,0 +1,51 @@
+{
+    "name": "Torta Frita",
+    "description": "Fried Cake",
+    "details": {
+        "nationality": "Uruguayan",
+        "difficulty": "Easy",
+        "dishType": "Fried",
+        "cookTime": 30,
+        "sourceChef": "Angela Goulkin",
+        "sourceLink": ""
+    },
+    "ingredients":[
+        "1 lb lard",
+        "7.5 cups (roughly 2lb) of flour",
+        "2.5 tsp salt",
+        "2 spoons baking powder",
+        "1/2 cup warm milk",
+        "1 cup (or more) water"
+    ],
+
+    "recipe":[
+        {
+            "name": "Heat Up Lard",
+            "description": "Put the Lard in a large pan/pot as thats that will be used for frying later."
+        },
+        {
+            "name": "Mix Flour, Salt, and Baking Powder",
+            "description": "Put the flour in a bowl and slowly mix in the baking powder and salt."
+        },
+        {
+            "name": "Mix Milk, Lard, and Water",
+            "description": "Mix in the milk and 8 spoons of melted lard then mix. Slowly add 1 cup of water to the mixture, or until dough is ready. Make sure you turn the stove off to prevent the lard from boiling too early."
+        },
+        {
+            "name": "Kneed The Dough",
+            "description": "Kneed the dough for a couple of minutes until it is ready. Add flour as needed."
+        },
+        {
+            "name": "Roll The Dough",
+            "description": "Split your dough into palm-shaped balls and roll them out until flat. Make sure you leave a hole in the center to let the lard not bubble under. Start boiling the lard on low"
+        },
+        {
+            "name": "Fry The Dough",
+            "description": "Dip the rolled out dough in the boiling lard one at a time for 1.5 minutes on one side, then flip for another 1.5 minutes on the other. Make sure you pop any large bubbles that start to form"
+        },
+        {
+            "name": "Take Dough Out and Season",
+            "description": "Take the torta frita out and add toppings of your choice."
+        }
+    ]
+}
